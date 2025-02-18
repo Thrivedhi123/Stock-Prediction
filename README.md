@@ -2,34 +2,12 @@ This Streamlit-based Stock Dashboard allows users to analyze stock market data b
 
 Features
 
-Stock Price Analysis: Fetch and visualize historical stock prices.
+1. Stock Price Analysis: Fetch and visualize historical stock prices.
 
-Pricing Movements: Calculate annual returns, standard deviation, and risk-adjusted returns.
+2. Pricing Movements: Calculate annual returns, standard deviation, and risk-adjusted returns.
 
-Fundamental Data: Display balance sheets, income statements, and cash flow reports.
+3. Fundamental Data: Display balance sheets, income statements, and cash flow reports.
 
-News Sentiment Analysis: Retrieve and analyze stock-related news sentiment.
+4. News Sentiment Analysis: Retrieve and analyze stock-related news sentiment.
 
-Dependencies
 
-pandas
-
-streamlit
-
-yfinance
-
-plotly
-
-numpy
-
-alpha_vantage
-
-stocknews
-
-Usage
-
-Enter a stock ticker symbol (e.g., AAPL).
-
-Select a start and end date.
-
-View stock price trends, fundamental data, and news sentiment.
